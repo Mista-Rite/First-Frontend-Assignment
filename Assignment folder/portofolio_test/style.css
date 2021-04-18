@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color:peachpuff
+}
+
+
+
+div h1{
+    display: flex;
+    flex-wrap: wrap;
+    color: blueviolet;
+    position:relative;
+    top: 55px;
+    font-size: 30px;
+    margin-left: 15px
+}
+
+div nav{
+    display:flex;
+    justify-content: flex-end;
+    margin-right: 15px;
+    position: relative;
+    top: -10px;
+    
+}
+
+
+
+
+.top-nav a{
+    display: flex;
+    width: 15%;
+     text-decoration: none;
+}
+
+img{
+    width: 150px;
+    height: 180px;
+    position: relative;
+    top: 70px;
+    padding: 10px;
+    border: none;
+}
+
+div>.para-align{
+    color: darkorchid;
+    position: relative;
+    left: 238px;
+    bottom: 100px;
+}
+.center{
+    align-content: center;
+}
+
+.second-wrapper{
+    background-color: beige;
+    width: 500px;
+    height: 500px;
+    border: 2px solid gray;
+    margin: 5px;
+    margin-left: 150px;
+
+}
+
+
+
+.address{
+    font-size: 13px;
+    text-align: center;
+    
+}
+
+h3{
+    font-size: 15px
+}
+
+.profile{
+    margin: 2px;
+    padding-left:11px;
+    font-size: 14px;
+}
+
+
+.experience{
+    align-items: center;
+   margin: 2px;
+    padding-left:11px;
+    font-size: 14px;
+    position: relative;
+    top:30px ;
+}
+
+.education{
+    margin: 2px;
+    padding-left:11px;
+    font-size: 14px;
+    position: relative;
+    top:60px ;
+}
+
+.ict{
+   margin: 2px;
+    padding-left:0px;
+    font-size: 14px;
+    position: relative;
+    top:20px ;  
+}
+
+
+.right-span1{
+    color: black;
+    margin-left: 240px
+}
+
+.right-span2{
+    color: black;
+    margin-left: 215px
+}
+
+.right-span3{
+    color: black;
+    margin-left: 188px
+}
+
+.right-span4{
+    color: black;
+    margin-left: 127px
+}
+
+ 
